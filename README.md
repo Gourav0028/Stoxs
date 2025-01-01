@@ -32,7 +32,7 @@ Stoxs is a web application designed to help users track their investment portfol
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/<username>/Stoxs.git
+   git clone https://github.com/0PrashantYadav0/Stoxs.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -67,3 +67,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
+
+For any inquiries or support, please contact [0PrashantYadav0](https://github.com/0PrashantYadav0).
