@@ -66,10 +66,6 @@ The application is deployed at [stoxs.vercel.app](https://stoxs.vercel.app). The
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any inquiries or support, please contact [Gourav0028](https://github.com/Gourav0028).
